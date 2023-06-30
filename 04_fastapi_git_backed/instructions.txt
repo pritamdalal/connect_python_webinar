@@ -1,0 +1,16 @@
+fast-api stock
+1. Navigate to github repo: https://github.com/sol-eng/python-examples
+
+2. In github interface, describe what the API is doing; serving up stock prices that are in a csv file.
+
+3. Gitbacked deployment of Fast API to Connect.
+
+4. Swagger documentation.
+
+5. Change permissions to API in Connect.
+
+6. Run a curl command in the terminal (will need to change permissions).
+
+7. Change vanity url: fastapi-stock-pritam.
+
+

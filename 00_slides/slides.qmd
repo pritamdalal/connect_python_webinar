@@ -1,0 +1,95 @@
+---
+title: Posit and Python
+author: Pritam Dalal
+format: 
+  revealjs:
+    hash-type: number
+    transition: fade
+    embed-resources: true
+    auto-stretch: false
+    height: 900
+    width: 1600
+    slide-number: c/t
+    logo: https://www.rstudio.com/assets/img/posit-logo-fullcolor-TM.svg
+    css: style.css
+jupyter: python3
+---
+
+
+##
+
+![](images/rebrand.png){.r-stretch fig-align="center"}
+
+
+
+## Posit Team and Python
+![](images/posit_team_small.png){.r-stretch fig-align="center"}
+
+::: {.incremental}
+* **Workbench:** develop in Python using VS Code, JupyterLab, and Jupyter Notebook (classic)
+
+* **Connect:** deploy a wide range of Python data products including Jupyter Notebooks (reports, ETL jobs), Shiny for Python apps, Dash apps, FastAPIs, pins, Quarto projects 
+
+* **Package Manager:** serves up a full PyPI mirror, currated repositories, and internally developed Python packages
+:::
+
+
+## Posit and Python Open Source
+
+. . .
+
+Posit has a rich and storied history of developing open source software for the R ecosystem: RStudio IDE, tidyverse, Shiny.
+
+::: {layout-ncol="3"}
+![](images/rstudio_ide_logo.jpeg)
+
+![](images/tidyverse.png)
+
+![](images/shiny_hex.jpeg)
+:::
+
+. . . 
+
+In the last couple of years, Posit has begun significant development in the Python open source ecosystem with projects like Quarto, Vetiver, Shiny for Python.
+
+::: {layout-ncol="3"}
+![](images/quarto_logo.png)
+
+![](images/vetiver_hex.png)
+
+![](images/shiny_for_python.png)
+:::
+
+
+## Key Takeaways
+
+::: {.incremental}
+- All three Posit professional products (Workbench, Connect, Package Manager) have extensive support for Python data science.
+
+- We have extended our open-source mission to include Python with project like Vetiver, Shiny for Python, and Quarto.  We also financially support Python open source by sponsoring Numfocus.
+
+- Given our deep history with R, and our extensive support for Python, Posit Team is great for bilingual data science teams.
+
+- **Posit Team is an excellent solution for Python only teams.**
+:::
+
+
+## Materials
+::: {.callout-warning}
+## Warning!
+
+This talk is not intended to be a self-contained workshop.  The examples in my github repo won't *just work*.
+
+:::
+
+The materials for this presentation can be found here:
+
+[https://github.com/pritamdalal/connect_python_webinar](https://github.com/pritamdalal/connect_python_webinar)
+
+
+# Thank You
+pritam.dalal@posit.co
+
+
+
+

@@ -1,0 +1,12 @@
+{
+    "https://colorado.posit.co/rsc": {
+        "server_url": "https://colorado.posit.co/rsc",
+        "filename": "/usr/home/pritam.dalal/files/connect_python_webinar/05_top_5_income_share_shiny",
+        "app_url": "https://colorado.posit.co/rsc/content/f4402cf0-b845-4f84-9ff5-c376f560d34e/",
+        "app_id": "f4402cf0-b845-4f84-9ff5-c376f560d34e",
+        "app_guid": "f4402cf0-b845-4f84-9ff5-c376f560d34e",
+        "title": "05_top_5_income_share_shiny",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}

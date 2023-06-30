@@ -1,0 +1,4 @@
+pandas
+tiingo
+python-dotenv
+pins
